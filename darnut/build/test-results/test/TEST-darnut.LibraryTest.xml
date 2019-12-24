@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="darnut.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-24T03:17:25" hostname="Aquarius-PC" time="0.067">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="darnut.LibraryTest" time="0.067"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
